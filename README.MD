@@ -38,7 +38,7 @@ O Swagger poderá ser visualizado em [localhost:8080/swagger-ui.html](http://loc
 
 ## API Endpoints
 
-Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [Postman](https://www.postman.com):
+Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [Postman](https://www.postman.com/):
 
 - Consultar a maestria
 ```
@@ -52,7 +52,6 @@ tag = Tag da sua conta Riot Games
 quant = Quantidade de campeões que mostrará
 
 ```
-
 [
   [
     {
@@ -68,7 +67,6 @@ quant = Quantidade de campeões que mostrará
         "championLevel": "7"
     },
 ]
-
 ```
 
 
