@@ -52,6 +52,7 @@ tag = Tag da sua conta Riot Games
 quant = Quantidade de campeões que mostrará
 
 ```
+
 [
   [
     {
@@ -67,6 +68,7 @@ quant = Quantidade de campeões que mostrará
         "championLevel": "7"
     },
 ]
+
 ```
 
 
