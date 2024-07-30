@@ -1,11 +1,6 @@
 package br.com.marcos.model;
 
-import java.util.HashMap;
-import java.util.Map;
-
 import com.fasterxml.jackson.annotation.JsonProperty;
-
-import br.com.marcos.service.LastMatchService;
 
 public class RiotMatchResponse {
 
